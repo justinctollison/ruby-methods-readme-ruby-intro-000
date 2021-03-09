@@ -1,5 +1,5 @@
 def greeting
-  put "hello world"
+  puts "hello world"
 end
 
 greeting
